@@ -1,5 +1,10 @@
 # hackamusic
 
+Work in progress
+
+[Live on Netlify: https://zoe-hackamusic.netlify.app/](https://zoe-hackamusic.netlify.app/)
+
+
 ## Project setup
 ```
 npm install
